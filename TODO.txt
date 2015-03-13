@@ -1,0 +1,4 @@
+Stuff todo:
+	Need to send a registering user the game board.
+	send fault exceptions from the server side.
+	Make sure that people with duplicate names dont have the same callback channel

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="1fe433f5-db71-4ffa-b9e4-a679fd3797fa" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="net.tcp://localhost:8733/Design_Time_Addresses/WCFExperimentation1/Service1/mex" Protocol="mex" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="service.wsdl" MetadataType="Wsdl" ID="0ac05c7b-deef-4d29-9516-0d8d96c3fd4a" SourceId="1" SourceUrl="net.tcp://localhost:8733/Design_Time_Addresses/WCFExperimentation1/Service1/mex" />
+    <MetadataFile FileName="service.xsd" MetadataType="Schema" ID="9e250a04-96fd-4741-b014-020443987690" SourceId="1" SourceUrl="net.tcp://localhost:8733/Design_Time_Addresses/WCFExperimentation1/Service1/mex" />
+    <MetadataFile FileName="service1.xsd" MetadataType="Schema" ID="78075b83-9317-4f70-a0ed-f82e4f49c9f1" SourceId="1" SourceUrl="net.tcp://localhost:8733/Design_Time_Addresses/WCFExperimentation1/Service1/mex" />
+    <MetadataFile FileName="BroadcastorService.xsd" MetadataType="Schema" ID="8d72374e-49fe-41d6-8064-079955264f2a" SourceId="1" SourceUrl="net.tcp://localhost:8733/Design_Time_Addresses/WCFExperimentation1/Service1/mex" />
+    <MetadataFile FileName="Arrays.xsd" MetadataType="Schema" ID="b05198bb-c598-4b3e-834e-f3c21a7e5991" SourceId="1" SourceUrl="net.tcp://localhost:8733/Design_Time_Addresses/WCFExperimentation1/Service1/mex" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

@@ -1,0 +1,5 @@
+C:\Users\andrew.ford\Documents\Visual Studio 2012\Projects\WCFExperimentation1\WCFExperimentation1\bin\Debug\WCFExperimentation1.dll.config
+C:\Users\andrew.ford\Documents\Visual Studio 2012\Projects\WCFExperimentation1\WCFExperimentation1\bin\Debug\WCFExperimentation1.dll
+C:\Users\andrew.ford\Documents\Visual Studio 2012\Projects\WCFExperimentation1\WCFExperimentation1\bin\Debug\WCFExperimentation1.pdb
+C:\Users\andrew.ford\Documents\Visual Studio 2012\Projects\WCFExperimentation1\WCFExperimentation1\obj\Debug\WCFExperimentation1.dll
+C:\Users\andrew.ford\Documents\Visual Studio 2012\Projects\WCFExperimentation1\WCFExperimentation1\obj\Debug\WCFExperimentation1.pdb

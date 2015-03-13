@@ -1,0 +1,29 @@
+C:\Users\andrew.ford\Documents\Visual Studio 2012\Projects\WCFExperimentation\TheConsole\obj\Debug\TheConsole.Form1.resources
+C:\Users\andrew.ford\Documents\Visual Studio 2012\Projects\WCFExperimentation\TheConsole\obj\Debug\TheConsole.Properties.Resources.resources
+C:\Users\andrew.ford\Documents\Visual Studio 2012\Projects\WCFExperimentation\TheConsole\obj\Debug\TheConsole.csproj.GenerateResource.Cache
+C:\Users\andrew.ford\Documents\Visual Studio 2012\Projects\WCFExperimentation\TheConsole\bin\Debug\TheConsole.exe.config
+C:\Users\andrew.ford\Documents\Visual Studio 2012\Projects\WCFExperimentation\TheConsole\bin\Debug\TheConsole.exe
+C:\Users\andrew.ford\Documents\Visual Studio 2012\Projects\WCFExperimentation\TheConsole\bin\Debug\TheConsole.pdb
+C:\Users\andrew.ford\Documents\Visual Studio 2012\Projects\WCFExperimentation\TheConsole\obj\Debug\TheConsole.exe
+C:\Users\andrew.ford\Documents\Visual Studio 2012\Projects\WCFExperimentation\TheConsole\obj\Debug\TheConsole.pdb
+C:\Users\andrew.ford\Documents\Visual Studio 2012\Projects\WCFExperimentation\TheConsole\bin\Debug\TheConsole.exe.manifest
+C:\Users\andrew.ford\Documents\Visual Studio 2012\Projects\WCFExperimentation\TheConsole\bin\Debug\TheConsole.application
+C:\Users\andrew.ford\Documents\Visual Studio 2012\Projects\WCFExperimentation\TheConsole\obj\Debug\TheConsole.exe.manifest
+C:\Users\andrew.ford\Documents\Visual Studio 2012\Projects\WCFExperimentation\TheConsole\obj\Debug\TheConsole.application
+I:\OffProject\ConsoleGameProject\WCFExperimentation1\TheConsole\bin\Debug\TheConsole.exe.config
+I:\OffProject\ConsoleGameProject\WCFExperimentation1\TheConsole\obj\Debug\TheConsole.exe
+I:\OffProject\ConsoleGameProject\WCFExperimentation1\TheConsole\obj\Debug\TheConsole.pdb
+I:\OffProject\ConsoleGameProject\WCFExperimentation1\TheConsole\bin\Debug\TheConsole.exe.manifest
+I:\OffProject\ConsoleGameProject\WCFExperimentation1\TheConsole\bin\Debug\TheConsole.application
+I:\OffProject\ConsoleGameProject\WCFExperimentation1\TheConsole\bin\Debug\TheConsole.exe
+I:\OffProject\ConsoleGameProject\WCFExperimentation1\TheConsole\bin\Debug\TheConsole.pdb
+I:\OffProject\ConsoleGameProject\WCFExperimentation1\TheConsole\obj\Debug\TheConsole.csprojResolveAssemblyReference.cache
+I:\OffProject\ConsoleGameProject\WCFExperimentation1\TheConsole\obj\Debug\TheConsole.ClientResources.resources
+I:\OffProject\ConsoleGameProject\WCFExperimentation1\TheConsole\obj\Debug\TheConsole.Form1.resources
+I:\OffProject\ConsoleGameProject\WCFExperimentation1\TheConsole\obj\Debug\TheConsole.Properties.Resources.resources
+I:\OffProject\ConsoleGameProject\WCFExperimentation1\TheConsole\obj\Debug\TheConsole.csproj.GenerateResource.Cache
+I:\OffProject\ConsoleGameProject\WCFExperimentation1\TheConsole\obj\Debug\TheConsole.exe.manifest
+I:\OffProject\ConsoleGameProject\WCFExperimentation1\TheConsole\obj\Debug\TheConsole.application
+I:\OffProject\ConsoleGameProject\GameProjectFiles\TheConsole\bin\Debug\TheConsole.exe.config
+I:\OffProject\ConsoleGameProject\GameProjectFiles\TheConsole\obj\Debug\TheConsole.exe
+I:\OffProject\ConsoleGameProject\GameProjectFiles\TheConsole\obj\Debug\TheConsole.pdb

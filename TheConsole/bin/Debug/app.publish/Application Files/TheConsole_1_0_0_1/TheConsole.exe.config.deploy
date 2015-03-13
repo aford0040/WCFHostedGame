@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<configuration>
+    <system.serviceModel>
+        <bindings>
+            <netTcpBinding>
+                <binding name="NetTcpBinding_IBroadcastorService" />
+            </netTcpBinding>
+        </bindings>
+        <client>
+            <endpoint address="net.tcp://10.108.6.171:8733/Design_Time_Addresses/WCFExperimentation1/Service1/"
+                binding="netTcpBinding" bindingConfiguration="NetTcpBinding_IBroadcastorService"
+                contract="BroadcastorService.IBroadcastorService" name="NetTcpBinding_IBroadcastorService">
+                <identity>
+                    <dns value="localhost" />
+                </identity>
+            </endpoint>
+        </client>
+    </system.serviceModel>
+</configuration>
